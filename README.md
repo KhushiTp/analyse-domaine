@@ -15,21 +15,21 @@
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
 | Graphisme | moyen | J'aime expérimenter les couleurs et la composition, mais je ne m'y intéresse pas trop en creation. |
-| Vidéo et animation 2D | moyen |  |
-| 3D | moyen | ... |
-| Web | fort | ... |
-| Jeux vidéo | moyen | ... |
-| Développement logiciel | faible | ... |
-| Installations et expériences immersives | moyen | ... |
+| Vidéo et animation 2D | moyen | J'aime regarder des vidéos en 2d mais je ne suis pas sûre que je vais aimer en crée mais je suis intéressé à l'apprendre. |
+| 3D | moyen | J'aime regarder des créations en 3d mais je ne suis pas sûre que je vais aimer en crée mais je suis intéressé à l'apprendre. |
+| Web | fort | J'aime coder sur les sujets qui m'intéressent. |
+| Jeux vidéo | moyen | Je m'intéresse pas trop au développement de jeux-vidéos mais je joue régulièrement des jeux d'une seule catégorie. |
+| Développement logiciel | moyen | J'aime développer et coder et j'aime résoudre les problèmes que je rencontre pendant le processus. |
+| Installations et expériences immersives | faible | Je n'ai pas d'expériences avec des installations et expériences immersives et ca ne m'intéresse pas trop. |
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : ...
+### Domaine 1 : web
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : J'ai fais un peu de HTML et CSS dans mon domaine d'étude. 
+- Logiciels et outils : Visual Studio Code et GitHub
+- Pourquoi il m'intéresse : 
+- Travailler dans ce domaine : 
 
 ### Domaine 2 : ...
 

@@ -4,11 +4,11 @@
 
 - Mes forces : organisée, curieuse, ouverture d’esprit
     - Exemple : J'aime savoir comment les choses que j'utilise dans tout les jours fonctionnent. Je suis organisée, j'ai un agenda dans laquelle je prend note des dates importantes. Je prends en compte plusieurs point de vue quand je me bati un opinion.
-- Mes faiblesses ou points à améliorer : Procrastination, 
-    - Exemple : ...
+- Mes faiblesses ou points à améliorer : Procrastination, perfectionniste
+    - Exemple : Je débute toujours mes travaux à la dernière minute et en meme temps, je veut que ça soit parfait, donc je passe beaucoup plus de temps que prevue à les faire, car je veut que toutes les petites trucs soit parfaits. 
 - Seul(e) ou en équipe : seul
     - Pourquoi et exemple : Je n'ai pas de confiance que je peut confier le travail au d'autres personnes. J'ai déjà eu des problème dans le travail d'equipe ou les autres membres ne faisaient pas leurs travail.
-- Plutôt technique ou créatif : 
+- Plutôt technique ou créatif : Technique
 
 ## Exploration des domaines
 
@@ -20,7 +20,7 @@
 | Web | fort | J'aime coder sur les sujets qui m'intéressent. |
 | Jeux vidéo | moyen | Je m'intéresse pas trop au développement de jeux-vidéos mais je joue régulièrement des jeux d'une seule catégorie. |
 | Développement logiciel | moyen | J'aime développer et coder et j'aime résoudre les problèmes que je rencontre pendant le processus. |
-| Installations et expériences immersives | faible | Je n'ai pas d'expériences avec des installations et expériences immersives et ca ne m'intéresse pas trop. |
+| Installations et expériences immersives | faible | Je n'ai pas d'expériences avec des installations et expériences immersives et ça ne m'intéresse pas trop. |
 
 ## Mes 2 domaines préférés
 
@@ -28,22 +28,22 @@
 
 - Expérience : J'ai fais un peu de HTML et CSS dans mon domaine d'étude. 
 - Logiciels et outils : Visual Studio Code et GitHub
-- Pourquoi il m'intéresse : 
-- Travailler dans ce domaine : 
+- Pourquoi il m'intéresse : J'aime pouvoir créer des sites webs ou des applications où je peut partager mes passions avec des differentes personnes.
+- Travailler dans ce domaine : Oui, j'aimerais bien mettre en place et participer à la création d'application web. 
 
-### Domaine 2 : ...
+### Domaine 2 : Vidéo et animation 2D 
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : J'ai pas d'experience dans l'animation 2d mais j'aimerais bien realiser quelques projets. 
+- Logiciels et outils : Krita, adobe animate
+- Pourquoi il m'intéresse : J'aime dessiner et un jour je voudrais pouvoir donner «vie» à mes dessins.
+- Travailler dans ce domaine : Non, je veut seulement realiser des projets personnels.
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : Studios de développement
+- Exemple d'entreprise : Microsoft
 
-![Nom de l'entreprise](entreprise.jpg)
+![Microsoft](entreprise.jpg)
 
 (source de l'image : ...)
 

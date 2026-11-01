@@ -45,7 +45,7 @@
 
 ![Microsoft](logo_microsoft.jpg)
 
-(source de l'image : ...)
+(source de l'image : [...](https://stock.adobe.com/fr/search?k=microsoft)
 
 - Types de produits et de services : ...
 - Étapes de production : ...

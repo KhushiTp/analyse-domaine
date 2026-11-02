@@ -5,7 +5,7 @@
 - Mes forces : organisée, curieuse, ouverture d’esprit
     - Exemple : J'aime savoir comment les choses que j'utilise dans tous les jours fonctionnent. Je suis organisée, j'ai un agenda dans laquelle je prends note des dates importantes. Je prends en compte plusieurs point de vue quand je me bâti une opinion.
 - Mes faiblesses ou points à améliorer : Procrastination, perfectionniste
-    - Exemple : Je débute toujours mes travaux à la dernière minute et en même temps, je veux que ça soit parfait, donc je passe beaucoup plus de temps que prévue à les faire, car je veux que toutes les petites trucs soit parfaits. 
+    - Exemple : Je débute toujours mes travaux à la dernière minute et en même temps, je veux que ça soit parfait, donc je passe beaucoup plus de temps que prévue à les faire.
 - Seul(e) ou en équipe : seul
     - Pourquoi et exemple : Je n'ai pas de confiance que je peux confier le travail au d'autres personnes. J'ai déjà eu des problèmes dans le travail d'équipe ou les autres membres ne faisaient pas leurs travails.
 - Plutôt technique ou créatif : Technique

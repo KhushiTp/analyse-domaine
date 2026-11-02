@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Microsoft
 
-![Microsoft]()
+![Microsoft](./microsoft_logo_(2012).png)
 
 (source de l'image : [Microsoft](https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012)_modified.png))
 

@@ -56,7 +56,7 @@
 
 - Mon profil en une phrase : Je suis une personne organisée et curieuse qui veut concevoir des sites web.
 - Ce qui m'a surpris : Je ne m'attendais pas à être tant intéressé à graphisme.
-- Ma force principale et la faiblesse à travailler : Ma curiosité est la chose que je pense m'aide le plus, car je vais toujours être prête à trouver une réponse à mes problèmes. 
+- Ma force principale et la faiblesse à travailler : Ma curiosité est la chose que je pense m'aide le plus, car je vais toujours être prête à trouver une réponse à mes problèmes. J'aimerais que je ne procastrine pas tros.
 - Mon action d'ici la fin de la session : Créer une site web avec un de mes intérêts.
 
 ## Ma capsule

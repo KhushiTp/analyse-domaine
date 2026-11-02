@@ -43,9 +43,9 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Microsoft
 
-![Microsoft](logo_microsoft.jpg)
+![Microsoft]()
 
-(source de l'image : [Microsoft](https://stock.adobe.com/fr/search?k=microsoft))
+(source de l'image : [Microsoft](https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012)_modified.png))
 
 - Types de produits et de services : Système d'exploitation et application
 - Étapes de production : recherche, Préproduction, production, postproduction, opération
